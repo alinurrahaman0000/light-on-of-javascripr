@@ -1,0 +1,25 @@
+#light{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    margin-bottom: 60px;
+}
+.into{
+    text-align: center;
+    margin-top: 60px;
+}
+
+#on-button{
+    margin-left: 30%;
+    margin-right: 30%;
+ 
+}
+#on-button:hover{
+    background-color: aquamarine;
+    border-radius: 5px;
+}
+#of-button:hover{
+    background-color: aquamarine;
+    border-radius: 5px;
+}
